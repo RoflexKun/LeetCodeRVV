@@ -1,6 +1,7 @@
 ## My LeetCode Journey
 I started this repository to keep an archive of my various solutions to different problems on LeetCode solved in C++(maybe later down the road I will use other programming languages to solve the problems).
 Even though I post my solutions on LeetCode with explications of my approach and the complexities of the solutions, I wanted to post the solutions on GitHub, because it may help someone stuck on some problems.
+***Some Solutions will not have explanations as they are easy to understand/solve***
 
 **In this README I will document my journey as a Computer Science student solving problems on LeetCode**
 
