@@ -1,0 +1,2 @@
+Explanation & other information:
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/4777362/c-beginner-solution-easy-to-understand-100/
