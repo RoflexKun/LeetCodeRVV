@@ -1,2 +1,0 @@
-Explanation & other information: 
-https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/4776280/c-beginner-solution-easy-to-understand/
